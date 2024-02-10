@@ -2,7 +2,10 @@
 <div style="text-align:center">
   <img  align="center" src="https://readme-typing-svg.herokuapp.com/?lines=Hi,Welcome+To%20My%20github%20profile.&font=Fira%20Code&center=true&width=380&height=50" 
        style="max-width: 100%;">
-       
+       * 🌍  I'm based in East Riffa
+* 🧠  I'm learning Golang / Java
+* 🤝  I'm open to collaborating on Reboot
+* ⚡  I'M BatMan
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/byqb) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/b0yqb) 
