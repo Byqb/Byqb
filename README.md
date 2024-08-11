@@ -3,11 +3,14 @@
   <img  align="center" src="https://readme-typing-svg.herokuapp.com/?lines=Hi,Welcome+To%20My%20github%20profile.&font=Fira%20Code&center=true&width=380&height=50" 
        style="max-width: 100%;">
 
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/byqb) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/b0yqb) 
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white)
+
+# My Website : https://byqb.github.io/cv/
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Byqb&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Byqb&theme=tokyonight&hide_border=false)<br/>
