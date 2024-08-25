@@ -52,3 +52,14 @@
   <img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Byqb&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+## 😂 Random Dev Meme
+<div align="center">
+  <img src="https://randommeme-five.vercel.app/" style="height: 400px;" alt="Dev Meme" />
+</div>
