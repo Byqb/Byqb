@@ -9,7 +9,7 @@
 ### 🚀 My Website
 <div align="center">
   <a href="https://byqb.github.io/cv/" style="font-size: 20px; color: #00CED1;">
-    🌐 Visit My Portfolio
+    🌐 Visit My CV Portfolio
   </a>
 </div>
 
@@ -18,7 +18,9 @@
 <div align="center">
   <a href="https://discord.gg/byqb"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://instagram.com/b0yqb"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <a href="mailto:y7uosif@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
+
 
 ---
 
